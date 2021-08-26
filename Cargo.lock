@@ -3,5 +3,29 @@
 version = 3
 
 [[package]]
-name = "handson"
+name = "bitonic_first"
+version = "0.1.0"
+
+[[package]]
+name = "bitonic_second"
+version = "0.1.0"
+
+[[package]]
+name = "bitonic_third"
+version = "0.1.0"
+
+[[package]]
+name = "fizzbuzz"
+version = "0.1.0"
+
+[[package]]
+name = "hello_world"
+version = "0.1.0"
+
+[[package]]
+name = "user_struct"
+version = "0.1.0"
+
+[[package]]
+name = "variable_declaration"
 version = "0.1.0"
